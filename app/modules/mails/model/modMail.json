@@ -1,0 +1,17 @@
+{
+"NomExp": "Jean",
+"emailExp": "jean@testfr",
+"objet": "facture"
+},
+{
+"NomExp": "Pierre",
+"emailExp": "pierre@testfr",
+"objet": "client"
+}
+
+
+
+
+
+  /* 'contenu':'"&lt;p&gt;&lt;p style=&quot;text-align:center&quot;&gt;&lt;span style=&quot;font-size:20px&quot;&gt;&lt;span style=&quot;font-family:Comic Sans MS,cursive&quot;&gt;&lt;span style=&quot;color:#ffffff&quot;&gt;&lt;span style=&quot;background-color:#2c3e50&quot;&gt;Bonjour,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;h2 style=&quot;text-align:center&quot;&gt;&lt;span style=&quot;color:#2980b9&quot;&gt;&lt;strong&gt;Votre document est publi&eacute;.&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;&lt;span style=&quot;color:#8e44ad&quot;&gt;&lt;strong&gt;&lt;u&gt;Bonne journ&eacute;e.&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p style=&quot;text-align:center&quot;&gt;&lt;span class=&quot;marker&quot;&gt;&lt;span style=&quot;color:#8e44ad&quot;&gt;&lt;strong&gt;M xxx&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;↵"*/
+

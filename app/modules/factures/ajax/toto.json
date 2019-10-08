@@ -1,0 +1,27 @@
+[{
+        "code": "10111",
+        "nom": "Caisse Nationale",
+        "complement": "la poste",
+        "adresse": "1 rue ",
+        "codePostal": "83000",
+        "ville": "TOULON"
+    },
+
+    {
+        "code": "10112",
+        "nom": "Caisse Epargne",
+        "complement": "epargne",
+        "adresse": "3 impasse ",
+        "codePostal": "13000",
+        "ville": "MARSEILLE"
+    },
+
+    {
+        "code": "10113",
+        "nom": "Société Générale",
+        "complement": "SG",
+        "adresse": "8 quartier ",
+        "codePostal": "10000",
+        "ville": "ICI"
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpunit/php-timer": "^2.1",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
