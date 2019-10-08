@@ -14,8 +14,6 @@ $(document).ready(function () {
             });
         }
         if (email && mdp) {
-
-
             $.ajax({
                 url: './ajax/connexion.php',
                 type: 'POST',
